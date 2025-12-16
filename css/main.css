@@ -1,52 +1,22 @@
-* {
-
-    box-sizing: border-box;
-
-}
- 
-body {
-
-    font-family: Arial, sans-serif;
-
-    font-weight: 400;
-
-    font-size: 1.2rem;
-
-    line-height: 1.4;
-
-    color: darkblue;
-
-    background-color: whitesmoke;
-
-}
- 
-img {
-
-    max-width: 100%;
-
-    height: auto;
-
-    width: auto;
-
-}
- 
-a {
-
-    color: deeppink;
-
-    text-decoration: none;
-
-}
- 
-a:hover {
-
-    color: darkmagenta;
-
-}
- 
-.avatar{
-
-    max-width: 200px;
-
-}
- 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <!-- Jeu de caractères utilisé pour l'encodage du fichier HTML -->
+    <meta charset="UTF-8">
+    <!-- Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Titre de la page -->
+    <title>Titre de la page | Nom du site</title>
+    <!-- Auteur -->
+    <meta name="author" content="Laure Dinateur">
+    <!-- Description de la page -->
+    <meta name="description" content="Brève description du contenu de la page.">
+    <!-- Reset CSS Normalize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"/>
+    <!-- CSS de base -->
+    <link rel="stylesheet" href="css/main.css"/>
+</head>
+<body>
+    <h1>Titre principal de la page</h1>
+</body>
+</html>
