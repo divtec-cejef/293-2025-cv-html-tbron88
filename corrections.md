@@ -51,4 +51,6 @@
 
 ## Autres
 - Attention à l'indentation et à la lisibilité du code
-- - utilisez `<strong>` plutôt que `<b>`
+- utilisez `<strong>` plutôt que `<b>`
+- ajouter des favicons à la racine du projet
+  
