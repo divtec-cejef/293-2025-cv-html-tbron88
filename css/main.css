@@ -8,7 +8,7 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     color: #0B0B45;
-    background: linear-gradient(90deg, #009FFF, #EC2F4B);
+    background-color: black;
     list-style-position: inside;
     max-width: 800px;
 }
@@ -26,7 +26,7 @@ h1 {
     text-align:center;
     font-family: 'Luckiest Guy', cursive;
     color: #0B0B45;
-    background-color: White;
+    background-color: grey;
     border: 6px solid black; /* épaisseur, style, couleur */
     padding: 10px;
 }
@@ -45,10 +45,6 @@ h3 {
     text-align: center;
 }
  
-ul {
-    margin-left: 33%;
-    margin-right: 33%;
-}
  
 a {
     color: darkred;
