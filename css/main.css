@@ -31,20 +31,21 @@ img {
 }
  
 a {
-
-    color: deeppink;
-
+    color: darkred;
     text-decoration: none;
-
 }
  
 a:hover {
-
-    color: darkmagenta;
-
+    color: purple;
+    text-decoration: underline;
+    font-weight: bold;
 }
  
-.avatar{
+.avatar {
+    max-width: 200px;
+    text-align: center;
+    box-shadow: 7px 7px 21px rgba(0, 0, 0, 0.3);
+}
 
     max-width: 200px;
 
