@@ -58,7 +58,7 @@ a:hover {
 }
  
 .avatar {
-    max-width: 200px;
+    max-width: 100px;
     text-align: center;
-    box-shadow: 7px 7px 21px rgba(1, 1, 1, 0);
+    box-shadow: 7px 7px 21px rgb(255, 0, 0);
 }
