@@ -7,7 +7,7 @@ body {
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
-    color: #0B0B45;
+    color: #FFFFFF;
     background-color: black;
     list-style-position: inside;
     max-width: 800px;
@@ -25,8 +25,8 @@ nav {
 h1 {
     text-align:center;
     font-family: "Times New Roman", Times, serif;
-    color: cyan;
-    background-color: grey;
+    color: red;
+    background-color: white;
     border: 6px red; /* épaisseur, style, couleur */
     padding: 10px;
 }
