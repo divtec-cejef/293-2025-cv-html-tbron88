@@ -27,7 +27,7 @@ h1 {
     font-family: "Times New Roman", Times, serif;
     color: red;
     background-color: white;
-    border: 6px solid red; /* épaisseur, style, couleur */
+    border: 6px solid red;
     padding: 10px;
 }
  
@@ -60,5 +60,5 @@ a:hover {
 .avatar {
     max-width: 100px;
     text-align: center;
-    box-shadow: 7px 7px 21px rgb(255, 0, 0);
+    box-shadow: 0 4px 10px rgba(1, 0, 0, 0.5);
 }
