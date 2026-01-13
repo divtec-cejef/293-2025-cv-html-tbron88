@@ -27,7 +27,7 @@ h1 {
     font-family: "Times New Roman", Times, serif;
     color: red;
     background-color: white;
-    border: 6px, red; /* épaisseur, style, couleur */
+    border: 6px solid red; /* épaisseur, style, couleur */
     padding: 10px;
 }
  
