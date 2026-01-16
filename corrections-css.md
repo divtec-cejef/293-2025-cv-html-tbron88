@@ -60,6 +60,17 @@ Donc l’ombre ne s’applique pas.
   OU
 * Mettre l’ombre directement sur `img` (moins précis).
 
+Bonus : centrer l'image :
+```
+.avatar {
+    max-width: 100px;
+    display: block;
+    margin: auto;
+    box-shadow: 6px 4px 10px rgba(1, 0, 0, 0.5);
+}
+```
+> `display: block;` permet à l'image de prendre de la place en block 
+
 ---
 
 ## F) CSS — Image responsive : `width: auto` inutile ici
